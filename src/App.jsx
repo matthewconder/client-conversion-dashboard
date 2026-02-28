@@ -345,7 +345,7 @@ export default function App() {
       {/* SIDEBAR */}
       <aside className="w-56 flex-shrink-0 border-r border-[#3a3a3a] bg-[#242424] flex flex-col">
         <div className="p-4 border-b border-[#3a3a3a]">
-          <h1 className="text-base font-semibold text-[#e5e5e5] tracking-tight">Core Shift LLC</h1>
+          <h1 className="text-base font-semibold text-[#e5e5e5] tracking-tight">Client Conversion</h1>
           <p className="text-xs text-[#666] mt-0.5">Sales Operations</p>
         </div>
 
